@@ -1,2 +1,0 @@
-# Exo_pandas
-introduction
